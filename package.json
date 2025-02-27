@@ -1,11 +1,15 @@
 {
   "name": "weather_api",
   "version": "1.0.0",
-  "description": "The Weather API",
+  "description": "This is my new description of the weather _api for week 5",
   "type": "module",
   "engines": {
     "node": ">- 18.12 <21"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
   "license": "MIT",
   "author": "Lucian Duta",
   "dependencies": {
